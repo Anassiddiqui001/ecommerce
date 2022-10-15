@@ -25,6 +25,7 @@ SMPT_PORT=
 CLOUDINARY_NAME
 CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
-_fill each filed with your info respectively_
+
+**_fill each filed with your info respectively_**
 
 
